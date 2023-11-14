@@ -31,3 +31,6 @@ I need to know the basic operation on keys now.
 
 目前还找不到工作空间下的全局搜索的方式。
 现在找到了，是 space + s + t 
+
+why not ever use it the 's' ?
+
