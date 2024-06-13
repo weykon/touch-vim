@@ -33,4 +33,5 @@ I need to know the basic operation on keys now.
 现在找到了，是 space + s + t 
 
 why not ever use it the 's' ?
+s pressing will immediately change to insert mode but c not.
 
